@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Html Learning"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Blinkit-clone"
+	}
+}
